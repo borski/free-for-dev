@@ -72,6 +72,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://www.ssllabs.com/ssltest/ - Very deep analysis of the configuration of any SSL web server
   * https://qualys.com/forms/freescan/owasp/ - Find web app vulnerabilities, audit for OWASP Risks
   * [alienvault.com ThreatFinder](https://www.alienvault.com/open-threat-exchange/threatfinder) - Uncovers compromised systems in your network
+  * https://www.tinfoilsecurity.com - Find and fix web app vulnerabilities with [best scanner on the market](http://sectoolmarket.com) focused on developers
 
 ## Management Systems
 
